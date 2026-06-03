@@ -104,13 +104,12 @@ export default function MatkulScreen({ navigation }) {
               })
             }
           >
-            {/* 1. Kiri: Avatar Lingkaran memakai inisial nama mata kuliah */}
             <Avatar.Text
               size={44}
-              label={item.initials} // <-- SEKARANG MENGGUNAKAN INITIALS (ML, AM, BD, dll.)
+              label={item.initials}
               style={{ backgroundColor: "#E3F2FD" }}
               color={item.color}
-              labelStyle={{ fontSize: 13, fontWeight: "bold" }} // Ukuran teks sedikit dinaikkan agar pas
+              labelStyle={{ fontSize: 13, fontWeight: "bold" }}
             />
 
             {/* 2. Tengah: Informasi Text */}

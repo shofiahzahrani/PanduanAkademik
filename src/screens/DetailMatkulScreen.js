@@ -14,8 +14,8 @@ export default function DetailMatkulScreen({ route, navigation }) {
     percent: matkul.persen || 88,
     desc:
       matkul.desc || "Supervised, unsupervised, dan reinforcement learning.",
-    phone: matkul.phone || "+6281234567890",
-    email: matkul.email || "budi@uir.ac.id",
+    phone: matkul.phone || "+6285278184120",
+    email: matkul.email || "anggihanafiah@uir.ac.id",
     grade: matkul.nilai || "A",
   };
 
@@ -113,7 +113,7 @@ export default function DetailMatkulScreen({ route, navigation }) {
               DATA YANG DIPASSING KE SCREEN INI
             </Text>
             <Text style={styles.cardMainText}>
-              Mahasiswa: <Text style={styles.boldText}>{mhsNama}</Text> · NIM:{" "}
+              Mahasiswa: <Text style={styles.boldText}>{mhsNama}</Text> · NPM:{" "}
               <Text style={styles.boldText}>{mhsNIM}</Text>
             </Text>
             <Text style={styles.cardMainText}>

@@ -31,7 +31,7 @@ function MainTabs() {
         name="Home"
         component={HomeScreen}
         options={{
-          title: "PanduanAkademik",
+          title: "AkademiKu",
           tabBarIcon: ({ color, size }) => (
             <MaterialCommunityIcons name="home" color={color} size={size} />
           ),

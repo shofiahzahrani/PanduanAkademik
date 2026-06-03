@@ -16,7 +16,7 @@ export default function SplashScreen({ navigation }) {
         <Text style={styles.logoIcon}>🎓</Text>
       </View>
       <Text variant="headlineMedium" style={styles.title}>
-        PanduanAkademik
+        AkademiKu
       </Text>
       <Text variant="bodyMedium" style={styles.subtitle}>
         Sistem Informasi Akademik Mahasiswa

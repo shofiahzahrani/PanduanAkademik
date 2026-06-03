@@ -52,5 +52,5 @@ Integrasi penuh dengan fitur bawaan _smartphone_ melalui library `Linking` dan `
 1. **Clone Repositori ini:**
 
 ```bash
-   git clone [https://github.com/username-kamu/nama-repo-kamu.git](https://github.com/username-kamu/nama-repo-kamu.git)
+   git hub (https://github.com/shofiahzahrani/PanduanAkademik.git)
 ```
