@@ -53,4 +53,5 @@ Integrasi penuh dengan fitur bawaan _smartphone_ melalui library `Linking` dan `
 
 ```bash
    git hub (https://github.com/shofiahzahrani/PanduanAkademik.git)
+   vercel  (https://panduan-akademik-react.vercel.app)
 ```
